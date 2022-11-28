@@ -1,37 +1,11 @@
-# Olá, eu sou o Victor Barbosa!
-
-[![author](https://img.shields.io/badge/author-victorbarbosa-blue.svg)](https://www.linkedin.com/in/victorxbarbosa/) [![](https://img.shields.io/badge/python-3.7+-yellow.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/victorxbarbosa)
+# Bem vindo ao meu portifólio!
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/100004569/187988593-31357b24-3ecb-4d59-872c-a1a1cd71c36b.png" >
 </p>
 
-## Um pouco de mim
-Estou cursando bacharel tecnológico em Ciência de dados, gosto de aprender e compartilhar conhecimento, veja meu blog no Medium. Acesse meu portfólio para ver meus projetos desenvolvidos em ciência de dados.
-
 ***Ciência de Dados | Big Data & Analytics***
 
-## Contato
-</div>
-  <a href="https://instagram.com/victorxbarbosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  <a href = "victor.silva.barbosa180@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
- <a href="https://www.linkedin.com/in/victorxbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
- <a href="https://medium.com/@victorxbarbosa" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-</div>
-
-##
-    
-<div align="center">
-  <a href="https://github.com/victorxbarboa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorxbarbosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=blue&icon_color=red"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorxbarbosa&layout=compact&langs_count=7&theme=dark&title_color=blue&icon_color=red"/
-</div>
-    
-</div>
-  <div style="display: inline_block"><br>
-</div>
- 
- 
 ## Ferramentas
     
 </div>
