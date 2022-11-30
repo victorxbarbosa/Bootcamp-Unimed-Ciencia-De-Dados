@@ -1,4 +1,4 @@
-# Bem vindo ao meu portifólio!
+# Bem-vindo ao meu portifólio!
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/100004569/187988593-31357b24-3ecb-4d59-872c-a1a1cd71c36b.png" >
