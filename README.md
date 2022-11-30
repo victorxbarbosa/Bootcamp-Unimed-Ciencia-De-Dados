@@ -4,9 +4,10 @@
   <img src="https://user-images.githubusercontent.com/100004569/187988593-31357b24-3ecb-4d59-872c-a1a1cd71c36b.png" >
 </p>
 
-***Ciência de Dados | Big Data & Analytics***
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victorxbarbosa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorxbarbosa) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@victorxbarbosa) 
 
-## Ferramentas
+## ⚙ Ferramentas
     
 </div>
     
